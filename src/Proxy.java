@@ -1,10 +1,4 @@
-/*
- * 	Student:		Stefano Lupo
- *  Student No:		14334933
- *  Degree:			JS Computer Engineering
- *  Course: 		3D3 Computer Networks
- *  Date:			02/04/2017
- */
+
 
 import java.io.File;
 import java.io.FileInputStream;
